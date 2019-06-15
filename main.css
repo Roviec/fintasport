@@ -14,7 +14,7 @@
 
 .main-header {
   position: relative;
-  background:url(file:///C:/Users/Maximo/Desktop/fintasport/img/finta3.jpg);
+  background:url(https://roviec.github.io/fintasport/img/finta3.jpg);
   background-size: cover;
   min-height: 600px;
 }
@@ -37,7 +37,7 @@
 }
 
 #servicios{position: relative;
-  background:url(file:///C:/Users/Maximo/Desktop/fintasport/img/fondo-estadio.jpg);
+  background:url(https://roviec.github.io/fintasport/img/fondo-estadio.jpg);
   background-size: cover;
   
   top: 0;
@@ -48,7 +48,7 @@
 }
 #sublimaciones{
   position: relative;
-  background:url(file:///C:/Users/Maximo/Desktop/fintasport/img/video-portada.jpg);
+  background:url(https://roviec.github.io/fintasport/img/video-portada.jpg);
   background-size: cover;
   min-height: 600px;
   top: 0;
